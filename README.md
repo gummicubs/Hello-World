@@ -1,2 +1,2 @@
 # Hello-World
-I am learnng!
+I am new to programming. I have a lot to learn but I'm hoping to learn quickly.
